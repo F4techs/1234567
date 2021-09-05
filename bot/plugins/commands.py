@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔥 Support 🔥', url="https://t.me/GKCCU098"
+                                    '🔥Support🔥', url="https://t.me/GKCCU098"
                                 )
                         ]
                     ]
